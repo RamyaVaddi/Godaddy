@@ -1,0 +1,18 @@
+ { "customer_account":[
+    {
+      "account": "******1234",
+      "branch": "Florida",
+      "amount": "$24,000"
+},
+ {
+      "account": "******5678",
+      "branch": "Phoenix",
+      "amount": "$45000"
+},
+{
+      "account": "******4680",
+      "branch": "New Jersey",
+      "amount": "$14000"
+}
+]
+}
